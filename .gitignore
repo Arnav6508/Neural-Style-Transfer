@@ -3,3 +3,4 @@ my_style.jpg
 .ipynb_checkpoints
 __pycache__
 nst_video.mp4
+.env
